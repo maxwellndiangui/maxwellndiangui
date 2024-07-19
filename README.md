@@ -8,4 +8,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxwellndiangui&show_icons=true&locale=en" alt="maxwellndiangui" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=maxwellndiangui&" alt="maxwellndiangui" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxwellndiangui&" alt="maxwellndiangui" /></p>
